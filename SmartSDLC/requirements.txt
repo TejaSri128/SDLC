@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+huggingface_hub
+torch
+PyMuPDF
+streamlit
+requests
+streamlit-lottie
+python-dotenv
